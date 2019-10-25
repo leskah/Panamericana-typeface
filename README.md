@@ -27,8 +27,4 @@ http://scripts.sil.org/OFL
 [Bernahrd Kahles - leskah](https://www.bernhardkahles.com)  
 
 
-## Links
-* [tokotypefaces.com](https://www.tokotypefaces.com)
-* [Behance](https://www.behance.net/gallery/8668939/Mohave-Typefaces)
-
 ## Images
