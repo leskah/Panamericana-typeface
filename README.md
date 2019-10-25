@@ -28,4 +28,4 @@ http://scripts.sil.org/OFL
 
 
 ## Images
-![/documentation/Panamericana-1.png](/documentation/Panamericana-1.png)|![/documentation/Panamericana-2.png](/documentation/Panamericana-2.png)|![/documentation/Panamericana-3](/documentation/Panamericana-3.png)|![/documentation/Panamericana-4.png](/documentation/Panamericana-4.png)|![/documentation/Panamericana-5](/documentation/Panamericana-5.png)
+![/documentation/Panamericana-1.png](/documentation/Panamericana-1.png)![/documentation/Panamericana-2.png](/documentation/Panamericana-2.png)![/documentation/Panamericana-3](/documentation/Panamericana-3.png)![/documentation/Panamericana-4.png](/documentation/Panamericana-4.png)![/documentation/Panamericana-5](/documentation/Panamericana-5.png)
