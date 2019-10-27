@@ -24,7 +24,7 @@ http://scripts.sil.org/OFL
 
 
 ## Authors
-[Bernahrd Kahles - leskah](https://www.bernhardkahles.com)  
+[Bernhard Kahles - leskah](https://www.bernhardkahles.com)  
 
 
 ## Images
